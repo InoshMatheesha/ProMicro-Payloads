@@ -4,12 +4,23 @@
 
 ### *Educational Cybersecurity Testing Suite*
 
+<!-- Banner image -->
+<p align="center">
+	<img src="https://clearwateragency.com.au/wp-content/uploads/2022/12/banner-m-cyber-security.jpeg" alt="Cyber Security Banner" width="100%" />
+</p>
+
+<br/>
+
 <img src="https://cdn.sparkfun.com//assets/parts/1/1/2/0/0/13614-01.jpg" alt="Pro Micro Board" width="400"/>
 
-[![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)](https://www.arduino.cc/)
-[![Hardware](https://img.shields.io/badge/Hardware-Pro_Micro-red?style=for-the-badge)](https://www.sparkfun.com/products/12640)
-[![License](https://img.shields.io/badge/License-Educational-yellow?style=for-the-badge)](LICENSE)
-[![Warning](https://img.shields.io/badge/⚠️-LAB_USE_ONLY-red?style=for-the-badge)](#warning)
+<!-- Badges with Arduino icon -->
+<p>
+	<img src="https://e7.pngegg.com/pngimages/758/841/png-clipart-arduino-max-electronic-circuit-pure-data-oscilloscope-raspberry-pi-icons-logo-microcontroller-thumbnail.png" alt="Arduino Icon" width="36" style="vertical-align:middle; margin-right:8px;"/>
+	[![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)](https://www.arduino.cc/)
+	[![Hardware](https://img.shields.io/badge/Hardware-Pro_Micro-red?style=for-the-badge)](https://www.sparkfun.com/products/12640)
+	[![License](https://img.shields.io/badge/License-Educational-yellow?style=for-the-badge)](LICENSE)
+	[![Warning](https://img.shields.io/badge/⚠️-LAB_USE_ONLY-red?style=for-the-badge)](#warning)
+</p>
 
 </div>
 
