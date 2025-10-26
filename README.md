@@ -30,7 +30,7 @@ This repository contains a collection of **Arduino-based USB HID payloads** desi
 - USB Cable (Micro-USB to USB-A)
 
 <div align="center">
-<img src="https://cdn.sparkfun.com//assets/parts/1/1/2/0/0/13614-02.jpg" alt="Pro Micro Pinout" width="500"/>
+<img src="https://www.sparkfun.com/media/catalog/product/cache/a793f13fd3d678cea13d28206895ba0c/1/2/12640-01a.jpg" alt="Pro Micro Pinout" width="500"/>
 </div>
 
 ### 🔧 Software Used
