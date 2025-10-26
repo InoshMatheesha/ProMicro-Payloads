@@ -11,10 +11,6 @@
 
 <br/>
 
-<img src="https://cdn.sparkfun.com//assets/parts/1/1/2/0/0/13614-01.jpg" alt="Pro Micro Board" width="400"/>
-
-<br/>
-
 <!-- Arduino Icon -->
 <img src="https://e7.pngegg.com/pngimages/758/841/png-clipart-arduino-max-electronic-circuit-pure-data-oscilloscope-raspberry-pi-icons-logo-microcontroller-thumbnail.png" alt="Arduino Icon" width="50"/>
 
